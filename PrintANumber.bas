@@ -1,0 +1,3 @@
+10 LET a=3
+20 PRINT a
+30 END
